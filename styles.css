@@ -296,8 +296,9 @@ h1 {
 .hero-summary {
   font-size: 1rem;
   font-weight: 300;
-  line-height: 2;
+  line-height: 1.5;
   color: var(--text-body);
+  margin-top: 1em;
   max-width: 30ch;
   display: block;
 }
