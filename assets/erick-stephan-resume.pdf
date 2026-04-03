@@ -1,0 +1,51 @@
+%PDF-1.1
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 329 >>
+stream
+BT
+/F1 18 Tf
+72 770 Td
+(Erick Ribeiro - Resume Demo Placeholder) Tj
+0 -28 Td
+/F1 12 Tf
+(This PDF is a placeholder asset for the portfolio download CTA.) Tj
+0 -18 Td
+(Replace assets/erick-ribeiro-resume-demo.pdf with the real resume file when available.) Tj
+0 -18 Td
+(The page already reads the resume path from config.js, so no HTML change will be needed.) Tj
+0 -30 Td
+(Suggested next step:) Tj
+0 -18 Td
+(1. Put the final PDF in the assets folder.) Tj
+0 -18 Td
+(2. Update portfolioConfig.cta.resumeUrl if the filename changes.) Tj
+0 -18 Td
+(3. Replace the fictional bio, experience, skills, and metrics in config.js.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000063 00000 n 
+0000000122 00000 n 
+0000000248 00000 n 
+0000000629 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+699
+%%EOF

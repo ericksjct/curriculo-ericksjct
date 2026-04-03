@@ -1,0 +1,16 @@
+{
+  "name": "curriculo-erick",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static bilingual portfolio with config-driven content.",
+  "scripts": {
+    "build": "node scripts/build-config.js",
+    "serve": "python -m http.server 4173",
+    "start": "python -m http.server 4173",
+    "preview": "python -m http.server 4173"
+  },
+  "dependencies": {
+    "deepl-node": "^1.13.0",
+    "js-yaml": "^4.1.0"
+  }
+}
