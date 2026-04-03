@@ -330,11 +330,12 @@ h1 {
   display: block;
 }
 
-.hero-lower {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 1.5rem;
-  align-items: start;
+.hero-copy-block {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  max-width: 80ch;
+  padding-inline: 1.5rem;
 }
 
 .micro-label {
@@ -698,7 +699,6 @@ h1 {
   }
 
   .topbar-nav { display: none; }
-  .hero-lower { grid-template-columns: 1fr; }
   .topbar-actions { margin-left: 0; }
 }
 
