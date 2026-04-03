@@ -57,16 +57,16 @@ i18n_content:
           - "SQL (Athena, Redshift, Hive)"
       - label: "Engenharia de Dados"
         items:
-          - "ETL / ELT Pipelines"
+          - "ETL, ELT Pipelines"
           - "Big Data Processing (Presto, Trino)"
       - label: "Business Intelligence"
         items:
-          - "Power BI / Tableau / QuickSight"
+          - "Power BI, Tableau, QuickSight"
           - "KPI Design & Data Storytelling"
       - label: "Plataformas & Cloud"
         items:
-          - "AWS / GCP / Azure"
-          - "SAS / Excel Avançado"
+          - "AWS, GCP, Azure"
+          - "SAS, Office 365"
           - "Agentes de código (Codex, Claude Code, Gemini CLI)"
   experience:
     kicker: "Trajetória"
